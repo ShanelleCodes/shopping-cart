@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
       <div className="bottom">
       <div className="left">
-          <span className="logo">Style Squad</span>
+          <span className="logo">Style Squad </span>
           <span className="copyright">
             © Copyright 2024. All Rights Reserved
           </span>
