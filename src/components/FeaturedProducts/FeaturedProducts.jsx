@@ -43,11 +43,11 @@ const FeaturedProducts = ({type}) => {
     <div className='featuredProducts'>
         <div className="top">
             <h1>{type} products</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+            {/* <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                 Inventore dolores nulla optio quia, quo voluptates porro 
                 fugit nam dolorum iste sed eum ratione dignissimos doloribus 
                 libero quam fugiat minima in.
-            </p>
+            </p> */}
         </div>
         <div className="bottom">
             {data.map(item=>(
